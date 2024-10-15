@@ -1,7 +1,6 @@
 const App = () => {
   return (
     <div>
-      <h1>Welcome to the T-Shirt Store</h1>
       <TShirtList />
     </div>
   );
